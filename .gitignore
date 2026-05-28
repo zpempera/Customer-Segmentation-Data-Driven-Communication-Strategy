@@ -1,0 +1,13 @@
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
