@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 ## Author
 
-[Imię Nazwisko] — B.Sc. in Artificial Intelligence
+Zofia Pempera
